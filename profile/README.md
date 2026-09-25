@@ -65,7 +65,7 @@ Explore our repositories to see how we design, build and evolve software.
 
 More projects are currently in development.
 
-## 📫 Contact
+## Contact
 
 For project inquiries and collaboration:
 
